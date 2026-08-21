@@ -12,10 +12,10 @@
             "archived": false,
             "id": 858127,
             "language": "Python",
-            "last_commit": "2026-08-19T19:23:36Z",
+            "last_commit": "2026-08-20T21:50:39Z",
             "owner": "pandas-dev",
             "repo": "pandas",
-            "stars": 49524
+            "stars": 49530
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 263727855,
             "language": "Rust",
-            "last_commit": "2026-08-20T05:25:49Z",
+            "last_commit": "2026-08-21T08:23:03Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39402
+            "stars": 39422
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 908607,
             "language": "Python",
-            "last_commit": "2026-08-19T22:54:25Z",
+            "last_commit": "2026-08-21T02:12:15Z",
             "owner": "numpy",
             "repo": "numpy",
-            "stars": 32561
+            "stars": 32571
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 1460385,
             "language": "Python",
-            "last_commit": "2026-08-20T08:19:55Z",
+            "last_commit": "2026-08-21T06:27:13Z",
             "owner": "scipy",
             "repo": "scipy",
-            "stars": 14936
+            "stars": 14942
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 640534,
             "language": "Python",
-            "last_commit": "2026-08-19T18:19:39Z",
+            "last_commit": "2026-08-20T18:19:27Z",
             "owner": "sympy",
             "repo": "sympy",
-            "stars": 14875
+            "stars": 14879
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-17T23:18:21Z",
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9716
+            "stars": 9717
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 20597509,
             "language": "R",
-            "last_commit": "2026-08-20T08:20:58Z",
+            "last_commit": "2026-08-20T13:42:43Z",
             "owner": "Rdatatable",
             "repo": "data.table",
             "stars": 3910
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 564689243,
             "language": "C++",
-            "last_commit": "2026-08-20T07:55:16Z",
+            "last_commit": "2026-08-21T08:15:32Z",
             "owner": "man-group",
             "repo": "ArcticDB",
             "stars": 2486
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 1309745037,
             "language": "Python",
-            "last_commit": "2026-08-20T08:19:56Z",
+            "last_commit": "2026-08-21T08:22:13Z",
             "owner": "morluto",
             "repo": "jacobian",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-17T03:29:21Z",
             "owner": "goldmansachs",
             "repo": "gs-quant",
-            "stars": 12062
+            "stars": 12073
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-10T14:18:43Z",
             "owner": "domokane",
             "repo": "FinancePy",
-            "stars": 3108
+            "stars": 3109
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-13T14:20:22Z",
             "owner": "pmorissette",
             "repo": "ffn",
-            "stars": 2635
+            "stars": 2634
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-01-14T00:46:56Z",
             "owner": "avhz",
             "repo": "RustQuant",
-            "stars": 1795
+            "stars": 1796
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-07-03T12:59:38Z",
             "owner": "joshuaulrich",
             "repo": "quantmod",
-            "stars": 905
+            "stars": 906
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2024-02-01T18:00:25Z",
             "owner": "bbcho",
             "repo": "finoptions-dev",
-            "stars": 300
+            "stars": 298
           }
         },
         {
@@ -693,7 +693,7 @@
             "archived": false,
             "id": 520908687,
             "language": "Python",
-            "last_commit": "2026-08-19T07:29:22Z",
+            "last_commit": "2026-08-21T08:12:29Z",
             "owner": "ArturSepp",
             "repo": "StochVolModels",
             "stars": 232
@@ -726,7 +726,7 @@
             "last_commit": "2016-03-14T15:30:04Z",
             "owner": "frgomes",
             "repo": "jquantlib",
-            "stars": 154
+            "stars": 155
           }
         },
         {
@@ -1008,7 +1008,7 @@
             "archived": false,
             "id": 812308927,
             "language": "Python",
-            "last_commit": "2026-08-18T20:23:22Z",
+            "last_commit": "2026-08-20T15:35:52Z",
             "owner": "ArturSepp",
             "repo": "VanillaOptionPricers",
             "stars": 13
@@ -1287,7 +1287,7 @@
             "last_commit": "2026-07-29T03:37:05Z",
             "owner": "TA-Lib",
             "repo": "ta-lib-python",
-            "stars": 12195
+            "stars": 12198
           }
         },
         {
@@ -1302,7 +1302,7 @@
             "last_commit": "2026-03-18T13:04:55Z",
             "owner": "bukosabino",
             "repo": "ta",
-            "stars": 5151
+            "stars": 5175
           }
         },
         {
@@ -1344,10 +1344,10 @@
             "archived": false,
             "id": 376093856,
             "language": "Go",
-            "last_commit": "2026-08-20T03:12:38Z",
+            "last_commit": "2026-08-21T05:58:00Z",
             "owner": "cinar",
             "repo": "indicator",
-            "stars": 1225
+            "stars": 1227
           }
         },
         {
@@ -1412,21 +1412,6 @@
         },
         {
           "node_type": "item",
-          "title": "TuneTA",
-          "description": "- TuneTA optimizes technical indicators using a distance correlation measure to a user defined target feature such as next day return.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 331153611,
-            "language": "Python",
-            "last_commit": "2023-10-13T21:26:28Z",
-            "owner": "jmrichardson",
-            "repo": "tuneta",
-            "stars": 462
-          }
-        },
-        {
-          "node_type": "item",
           "title": "IndicatorTS",
           "description": "- Indicator is a TypeScript module providing various stock technical analysis indicators, strategies, and a backtest framework for trading.",
           "children": [],
@@ -1437,6 +1422,21 @@
             "last_commit": "2026-08-20T03:08:17Z",
             "owner": "cinar",
             "repo": "indicatorts",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TuneTA",
+          "description": "- TuneTA optimizes technical indicators using a distance correlation measure to a user defined target feature such as next day return.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 331153611,
+            "language": "Python",
+            "last_commit": "2023-10-13T21:26:28Z",
+            "owner": "jmrichardson",
+            "repo": "tuneta",
             "stars": 462
           }
         },
@@ -1587,7 +1587,7 @@
             "last_commit": "2026-08-18T19:53:41Z",
             "owner": "wickra-lib",
             "repo": "wickra",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -1632,7 +1632,7 @@
             "last_commit": "2026-08-18T19:24:47Z",
             "owner": "lavs9",
             "repo": "quantwave",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -1680,10 +1680,10 @@
             "archived": false,
             "id": 91629816,
             "language": "Python",
-            "last_commit": "2026-08-20T05:13:17Z",
+            "last_commit": "2026-08-20T18:51:41Z",
             "owner": "freqtrade",
             "repo": "freqtrade",
-            "stars": 53452
+            "stars": 53481
           }
         },
         {
@@ -1698,7 +1698,7 @@
             "last_commit": "2026-07-23T08:15:29Z",
             "owner": "microsoft",
             "repo": "qlib",
-            "stars": 47771
+            "stars": 47804
           }
         },
         {
@@ -1713,7 +1713,7 @@
             "last_commit": "2026-08-10T01:07:58Z",
             "owner": "vnpy",
             "repo": "vnpy",
-            "stars": 44625
+            "stars": 44654
           }
         },
         {
@@ -1725,10 +1725,10 @@
             "archived": false,
             "id": 91253698,
             "language": "Python",
-            "last_commit": "2026-08-20T05:41:45Z",
+            "last_commit": "2026-08-20T13:57:54Z",
             "owner": "ccxt",
             "repo": "ccxt",
-            "stars": 43673
+            "stars": 43683
           }
         },
         {
@@ -1740,10 +1740,10 @@
             "archived": false,
             "id": 1198306812,
             "language": "Python",
-            "last_commit": "2026-08-20T00:02:21Z",
+            "last_commit": "2026-08-21T08:12:22Z",
             "owner": "HKUDS",
             "repo": "Vibe-Trading",
-            "stars": 31310
+            "stars": 31378
           }
         },
         {
@@ -1755,10 +1755,10 @@
             "archived": false,
             "id": 138552196,
             "language": "Rust",
-            "last_commit": "2026-08-20T07:03:03Z",
+            "last_commit": "2026-08-21T00:52:21Z",
             "owner": "nautechsystems",
             "repo": "nautilus_trader",
-            "stars": 26578
+            "stars": 26848
           }
         },
         {
@@ -1773,7 +1773,7 @@
             "last_commit": "2024-08-19T17:47:36Z",
             "owner": "mementum",
             "repo": "backtrader",
-            "stars": 22901
+            "stars": 22912
           }
         },
         {
@@ -1785,10 +1785,10 @@
             "archived": false,
             "id": 27251463,
             "language": "C#",
-            "last_commit": "2026-08-19T23:14:47Z",
+            "last_commit": "2026-08-20T22:12:38Z",
             "owner": "QuantConnect",
             "repo": "Lean",
-            "stars": 21272
+            "stars": 21281
           }
         },
         {
@@ -1800,10 +1800,10 @@
             "archived": false,
             "id": 27251463,
             "language": "C#",
-            "last_commit": "2026-08-19T23:14:47Z",
+            "last_commit": "2026-08-20T22:12:38Z",
             "owner": "QuantConnect",
             "repo": "Lean",
-            "stars": 21272
+            "stars": 21281
           }
         },
         {
@@ -1815,10 +1815,10 @@
             "archived": false,
             "id": 132754148,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T19:46:25Z",
+            "last_commit": "2026-08-20T15:14:09Z",
             "owner": "stefan-jansen",
             "repo": "machine-learning-for-trading",
-            "stars": 20539
+            "stars": 20563
           }
         },
         {
@@ -1833,7 +1833,7 @@
             "last_commit": "2024-02-13T08:02:51Z",
             "owner": "quantopian",
             "repo": "zipline",
-            "stars": 20052
+            "stars": 20055
           }
         },
         {
@@ -1848,7 +1848,7 @@
             "last_commit": "2026-07-13T23:02:18Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRL",
-            "stars": 16048
+            "stars": 16057
           }
         },
         {
@@ -1863,7 +1863,7 @@
             "last_commit": "2026-02-28T02:59:12Z",
             "owner": "yutiansut",
             "repo": "QUANTAXIS",
-            "stars": 11019
+            "stars": 11025
           }
         },
         {
@@ -1875,10 +1875,10 @@
             "archived": false,
             "id": 27703983,
             "language": "C#",
-            "last_commit": "2026-08-20T00:07:34Z",
+            "last_commit": "2026-08-20T17:12:00Z",
             "owner": "StockSharp",
             "repo": "StockSharp",
-            "stars": 10597
+            "stars": 10607
           }
         },
         {
@@ -1893,7 +1893,7 @@
             "last_commit": "2023-04-16T22:03:47Z",
             "owner": "huseinzol05",
             "repo": "Stock-Prediction-Models",
-            "stars": 9484
+            "stars": 9483
           }
         },
         {
@@ -1908,7 +1908,7 @@
             "last_commit": "2026-08-02T09:14:10Z",
             "owner": "polakowo",
             "repo": "vectorbt",
-            "stars": 8731
+            "stars": 8748
           }
         },
         {
@@ -1923,7 +1923,7 @@
             "last_commit": "2026-08-19T14:33:36Z",
             "owner": "jesse-ai",
             "repo": "jesse",
-            "stars": 8348
+            "stars": 8349
           }
         },
         {
@@ -1938,7 +1938,7 @@
             "last_commit": "2026-07-20T14:12:56Z",
             "owner": "ranaroussi",
             "repo": "quantstats",
-            "stars": 7564
+            "stars": 7569
           }
         },
         {
@@ -1950,10 +1950,10 @@
             "archived": false,
             "id": 63773246,
             "language": "Python",
-            "last_commit": "2026-08-17T05:48:02Z",
+            "last_commit": "2026-08-21T06:46:07Z",
             "owner": "ricequant",
             "repo": "rqalpha",
-            "stars": 6709
+            "stars": 6710
           }
         },
         {
@@ -1968,7 +1968,7 @@
             "last_commit": "2026-08-17T21:14:39Z",
             "owner": "Drakkar-Software",
             "repo": "OctoBot",
-            "stars": 6441
+            "stars": 6446
           }
         },
         {
@@ -1998,7 +1998,7 @@
             "last_commit": "2025-12-23T15:57:58Z",
             "owner": "nkaz001",
             "repo": "hftbacktest",
-            "stars": 4375
+            "stars": 4379
           }
         },
         {
@@ -2013,7 +2013,7 @@
             "last_commit": "2026-07-01T09:42:05Z",
             "owner": "zvtvz",
             "repo": "zvt",
-            "stars": 4268
+            "stars": 4280
           }
         },
         {
@@ -2028,7 +2028,7 @@
             "last_commit": "2026-04-16T09:29:35Z",
             "owner": "cuemacro",
             "repo": "finmarketpy",
-            "stars": 3806
+            "stars": 3805
           }
         },
         {
@@ -2040,40 +2040,10 @@
             "archived": false,
             "id": 589385734,
             "language": "Python",
-            "last_commit": "2026-08-19T17:04:13Z",
+            "last_commit": "2026-08-21T05:01:12Z",
             "owner": "edtechre",
             "repo": "pybroker",
-            "stars": 3510
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hikyuu",
-          "description": "- A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 5103141,
-            "language": "C++",
-            "last_commit": "2026-08-19T19:18:16Z",
-            "owner": "fasiondog",
-            "repo": "hikyuu",
-            "stars": 3453
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hikyuu",
-          "description": "- A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination. You can use python or c++ freely.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 5103141,
-            "language": "C++",
-            "last_commit": "2026-08-19T19:18:16Z",
-            "owner": "fasiondog",
-            "repo": "hikyuu",
-            "stars": 3453
+            "stars": 3511
           }
         },
         {
@@ -2088,7 +2058,37 @@
             "last_commit": "2026-07-18T13:30:24Z",
             "owner": "pst-group",
             "repo": "pysystemtrade",
-            "stars": 3448
+            "stars": 3459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hikyuu",
+          "description": "- A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5103141,
+            "language": "C++",
+            "last_commit": "2026-08-21T05:56:53Z",
+            "owner": "fasiondog",
+            "repo": "hikyuu",
+            "stars": 3455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hikyuu",
+          "description": "- A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination. You can use python or c++ freely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5103141,
+            "language": "C++",
+            "last_commit": "2026-08-21T05:56:53Z",
+            "owner": "fasiondog",
+            "repo": "hikyuu",
+            "stars": 3455
           }
         },
         {
@@ -2103,7 +2103,7 @@
             "last_commit": "2024-06-30T17:11:05Z",
             "owner": "mhallsmoore",
             "repo": "qstrader",
-            "stars": 3442
+            "stars": 3441
           }
         },
         {
@@ -2118,7 +2118,7 @@
             "last_commit": "2021-06-01T12:56:44Z",
             "owner": "chrisconlan",
             "repo": "algorithmic-trading-with-python",
-            "stars": 3430
+            "stars": 3431
           }
         },
         {
@@ -2133,7 +2133,7 @@
             "last_commit": "2026-08-07T03:38:56Z",
             "owner": "pmorissette",
             "repo": "bt",
-            "stars": 2962
+            "stars": 2963
           }
         },
         {
@@ -2163,7 +2163,7 @@
             "last_commit": "2024-12-30T20:20:29Z",
             "owner": "blankly-finance",
             "repo": "blankly",
-            "stars": 2465
+            "stars": 2464
           }
         },
         {
@@ -2178,7 +2178,7 @@
             "last_commit": "2021-01-17T09:07:36Z",
             "owner": "achillesrasquinha",
             "repo": "bulbea",
-            "stars": 2321
+            "stars": 2320
           }
         },
         {
@@ -2205,10 +2205,10 @@
             "archived": false,
             "id": 548473954,
             "language": "Rust",
-            "last_commit": "2026-06-06T10:36:50Z",
+            "last_commit": "2026-08-20T20:44:54Z",
             "owner": "barter-rs",
             "repo": "barter-rs",
-            "stars": 2235
+            "stars": 2237
           }
         },
         {
@@ -2220,10 +2220,10 @@
             "archived": false,
             "id": 294371636,
             "language": "Python",
-            "last_commit": "2026-08-13T22:10:54Z",
+            "last_commit": "2026-08-20T12:26:30Z",
             "owner": "Lumiwealth",
             "repo": "lumibot",
-            "stars": 1948
+            "stars": 1950
           }
         },
         {
@@ -2238,7 +2238,7 @@
             "last_commit": "2026-01-06T13:01:54Z",
             "owner": "stefan-jansen",
             "repo": "zipline-reloaded",
-            "stars": 1923
+            "stars": 1925
           }
         },
         {
@@ -2295,10 +2295,10 @@
             "archived": false,
             "id": 228824550,
             "language": "Python",
-            "last_commit": "2026-08-19T21:12:51Z",
+            "last_commit": "2026-08-20T13:48:56Z",
             "owner": "coding-kitties",
             "repo": "investing-algorithm-framework",
-            "stars": 1709
+            "stars": 1710
           }
         },
         {
@@ -2313,7 +2313,7 @@
             "last_commit": "2025-10-18T08:29:29Z",
             "owner": "pegasusTrader",
             "repo": "PandoraTrader",
-            "stars": 1458
+            "stars": 1459
           }
         },
         {
@@ -2373,7 +2373,7 @@
             "last_commit": "2023-11-03T05:46:15Z",
             "owner": "stellar-deprecated",
             "repo": "kelp",
-            "stars": 1126
+            "stars": 1127
           }
         },
         {
@@ -2418,7 +2418,7 @@
             "last_commit": "2026-07-27T02:34:06Z",
             "owner": "AsyncAlgoTrading",
             "repo": "aat",
-            "stars": 828
+            "stars": 829
           }
         },
         {
@@ -2460,7 +2460,7 @@
             "archived": false,
             "id": 1038434342,
             "language": "Python",
-            "last_commit": "2026-08-20T03:25:44Z",
+            "last_commit": "2026-08-20T12:31:19Z",
             "owner": "dragon1086",
             "repo": "prism-insight",
             "stars": 723
@@ -2493,7 +2493,7 @@
             "last_commit": "2026-08-14T03:57:10Z",
             "owner": "rburkholder",
             "repo": "trade-frame",
-            "stars": 672
+            "stars": 673
           }
         },
         {
@@ -2523,7 +2523,7 @@
             "last_commit": "2024-12-07T00:58:56Z",
             "owner": "fremantle-industries",
             "repo": "tai",
-            "stars": 499
+            "stars": 498
           }
         },
         {
@@ -2613,7 +2613,7 @@
             "last_commit": "2026-07-30T13:23:02Z",
             "owner": "quantrocket-llc",
             "repo": "moonshot",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -2643,7 +2643,7 @@
             "last_commit": "2026-08-12T09:39:23Z",
             "owner": "tradingstrategy-ai",
             "repo": "getting-started",
-            "stars": 243
+            "stars": 244
           }
         },
         {
@@ -2778,7 +2778,7 @@
             "last_commit": "2026-01-11T07:05:12Z",
             "owner": "PIYUSH-KUMAR1809",
             "repo": "order-matching-engine",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -2805,7 +2805,7 @@
             "archived": false,
             "id": 906020235,
             "language": "Python",
-            "last_commit": "2026-08-18T13:43:02Z",
+            "last_commit": "2026-08-20T14:03:15Z",
             "owner": "cloudQuant",
             "repo": "backtrader",
             "stars": 154
@@ -2913,7 +2913,7 @@
             "last_commit": "2026-01-05T14:08:38Z",
             "owner": "jensnesten",
             "repo": "rust_bt",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -2948,6 +2948,21 @@
         },
         {
           "node_type": "item",
+          "title": "Orallexa",
+          "description": "- AI trading operating system with 9 ML models (RF, XGBoost, EMAformer, MOIRAI-2, Chronos-2, DDPM, PPO RL, GNN, LR) ranked by Sharpe ratio, Claude AI synthesis with dual-tier routing (~$0.003/analysis), real-time Next.js dashboard, Alpaca paper trading, and 277 automated tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1198603414,
+            "language": "Python",
+            "last_commit": "2026-07-12T15:08:32Z",
+            "owner": "alex-jb",
+            "repo": "orallexa-ai-trading-agent",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pythalesians",
           "description": "- Python library to backtest trading strategies, plot charts, seamlessly download market data, analyze market patterns etc.",
           "children": [],
@@ -2959,21 +2974,6 @@
             "owner": "thalesians",
             "repo": "pythalesians",
             "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Orallexa",
-          "description": "- AI trading operating system with 9 ML models (RF, XGBoost, EMAformer, MOIRAI-2, Chronos-2, DDPM, PPO RL, GNN, LR) ranked by Sharpe ratio, Claude AI synthesis with dual-tier routing (~$0.003/analysis), real-time Next.js dashboard, Alpaca paper trading, and 277 automated tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1198603414,
-            "language": "Python",
-            "last_commit": "2026-07-12T15:08:32Z",
-            "owner": "alex-jb",
-            "repo": "orallexa-ai-trading-agent",
-            "stars": 62
           }
         },
         {
@@ -3090,7 +3090,7 @@
             "archived": false,
             "id": 1187676985,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:37:04Z",
+            "last_commit": "2026-08-21T01:37:54Z",
             "owner": "naimkatiman",
             "repo": "tradeclaw",
             "stars": 40
@@ -3143,21 +3143,6 @@
         },
         {
           "node_type": "item",
-          "title": "Manifold-BT",
-          "description": "- High-performance Rust-powered backtesting engine for quantitative research with parameter sweeps, walk-forward and Monte Carlo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1184420721,
-            "language": "Python",
-            "last_commit": "2026-08-19T18:11:44Z",
-            "owner": "manifoldbt",
-            "repo": "manifoldbt",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
           "title": "FinClaw",
           "description": "- AI-powered financial intelligence engine with 8 master strategies across US, CN, and HK markets. Multi-agent architecture with +29.1% annual alpha. 227 tests.",
           "children": [],
@@ -3188,6 +3173,21 @@
         },
         {
           "node_type": "item",
+          "title": "Manifold-BT",
+          "description": "- High-performance Rust-powered backtesting engine for quantitative research with parameter sweeps, walk-forward and Monte Carlo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1184420721,
+            "language": "Python",
+            "last_commit": "2026-08-21T02:07:04Z",
+            "owner": "manifoldbt",
+            "repo": "manifoldbt",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Inalpha",
           "description": "- Conversational multi-agent quant framework where agents rank currently-effective factors for entry timing (time-series rank IC), write complete strategy code that passes sandboxed audit before backtesting, and evolve strategies under multi-objective fitness; every order requires machine approval and the LLM never has a direct order path.",
           "children": [],
@@ -3195,10 +3195,10 @@
             "archived": false,
             "id": 1245545312,
             "language": "Python",
-            "last_commit": "2026-08-19T09:50:40Z",
+            "last_commit": "2026-08-20T09:23:02Z",
             "owner": "mirror29",
             "repo": "inalpha",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -3225,7 +3225,7 @@
             "archived": false,
             "id": 1158349980,
             "language": "Python",
-            "last_commit": "2026-08-19T01:48:20Z",
+            "last_commit": "2026-08-20T13:38:53Z",
             "owner": "psyb0t",
             "repo": "mt5-httpapi",
             "stars": 26
@@ -3273,7 +3273,7 @@
             "last_commit": "2026-07-20T23:14:57Z",
             "owner": "DepthSight-Pro",
             "repo": "DepthSight",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -3285,25 +3285,10 @@
             "archived": false,
             "id": 1306579759,
             "language": "Python",
-            "last_commit": "2026-08-20T05:13:22Z",
+            "last_commit": "2026-08-20T22:45:31Z",
             "owner": "ArturSepp",
             "repo": "TrendFollowingSystems",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QTradeX-AI-Agents",
-          "description": "- Example strategies for the QTradeX platfrom.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 956170505,
-            "language": "Python",
-            "last_commit": "2025-05-25T14:03:18Z",
-            "owner": "squidKid-deluxe",
-            "repo": "QTradeX-AI-Agents",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -3338,6 +3323,21 @@
         },
         {
           "node_type": "item",
+          "title": "QTradeX-AI-Agents",
+          "description": "- Example strategies for the QTradeX platfrom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 956170505,
+            "language": "Python",
+            "last_commit": "2025-05-25T14:03:18Z",
+            "owner": "squidKid-deluxe",
+            "repo": "QTradeX-AI-Agents",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
           "title": "income-desk",
           "description": "- Systematic options trading intelligence for small accounts with desk-based portfolio management, pre-trade validation, and multi-broker consolidation.",
           "children": [],
@@ -3345,7 +3345,7 @@
             "archived": false,
             "id": 1163623318,
             "language": "Python",
-            "last_commit": "2026-08-20T03:48:16Z",
+            "last_commit": "2026-08-20T13:40:08Z",
             "owner": "nitinblue",
             "repo": "income-desk",
             "stars": 17
@@ -3480,9 +3480,24 @@
             "archived": false,
             "id": 1201406570,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T07:56:17Z",
+            "last_commit": "2026-08-21T08:22:58Z",
             "owner": "AlgoVaultLabs",
             "repo": "crypto-quant-signal-mcp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tw-stock-radar",
+          "description": "- AI-powered Taiwan stock scanner for all 1,900+ TWSE/TPEX listed stocks; chips module (T86 institutional net buy/sell + TDCC 16-tier retail distribution), 13 technical indicators scored 0–100, ATR Chandelier signals with TP1/TP2, dark three.js HUD dashboard. 100% free open data, ~110 unit tests, no API key required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1288797758,
+            "language": "Python",
+            "last_commit": "2026-07-05T05:34:28Z",
+            "owner": "carsonchou",
+            "repo": "tw-stock-radar",
             "stars": 5
           }
         },
@@ -3499,21 +3514,6 @@
             "owner": "nazmiefearmutcu",
             "repo": "showMe",
             "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tw-stock-radar",
-          "description": "- AI-powered Taiwan stock scanner for all 1,900+ TWSE/TPEX listed stocks; chips module (T86 institutional net buy/sell + TDCC 16-tier retail distribution), 13 technical indicators scored 0–100, ATR Chandelier signals with TP1/TP2, dark three.js HUD dashboard. 100% free open data, ~110 unit tests, no API key required.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1288797758,
-            "language": "Python",
-            "last_commit": "2026-07-05T05:34:28Z",
-            "owner": "carsonchou",
-            "repo": "tw-stock-radar",
-            "stars": 4
           }
         },
         {
@@ -3735,7 +3735,7 @@
             "archived": false,
             "id": 1225831461,
             "language": "Python",
-            "last_commit": "2026-08-19T13:37:50Z",
+            "last_commit": "2026-08-20T20:25:59Z",
             "owner": "Autonomous-Asset-Management-Agents",
             "repo": "autonomous_",
             "stars": 0
@@ -3786,10 +3786,10 @@
             "archived": false,
             "id": 357671824,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T18:12:36Z",
+            "last_commit": "2026-08-20T18:24:29Z",
             "owner": "ghostfolio",
             "repo": "ghostfolio",
-            "stars": 9159
+            "stars": 9162
           }
         },
         {
@@ -3804,7 +3804,7 @@
             "last_commit": "2023-12-23T06:14:58Z",
             "owner": "quantopian",
             "repo": "pyfolio",
-            "stars": 6400
+            "stars": 6402
           }
         },
         {
@@ -3819,7 +3819,7 @@
             "last_commit": "2026-07-07T21:18:14Z",
             "owner": "PyPortfolio",
             "repo": "PyPortfolioOpt",
-            "stars": 5971
+            "stars": 5972
           }
         },
         {
@@ -3834,7 +3834,7 @@
             "last_commit": "2023-10-02T03:05:19Z",
             "owner": "hudson-and-thames",
             "repo": "mlfinlab",
-            "stars": 4909
+            "stars": 4907
           }
         },
         {
@@ -3849,7 +3849,7 @@
             "last_commit": "2026-08-18T17:08:34Z",
             "owner": "dcajasn",
             "repo": "Riskfolio-Lib",
-            "stars": 4448
+            "stars": 4451
           }
         },
         {
@@ -3879,7 +3879,7 @@
             "last_commit": "2026-08-14T21:22:03Z",
             "owner": "skfolio",
             "repo": "skfolio",
-            "stars": 2197
+            "stars": 2204
           }
         },
         {
@@ -4191,7 +4191,7 @@
             "archived": false,
             "id": 1188507913,
             "language": "Python",
-            "last_commit": "2026-08-20T04:49:49Z",
+            "last_commit": "2026-08-20T22:45:26Z",
             "owner": "ArturSepp",
             "repo": "factorlasso",
             "stars": 23
@@ -4281,7 +4281,7 @@
             "archived": false,
             "id": 1203206324,
             "language": "Python",
-            "last_commit": "2026-08-20T04:42:36Z",
+            "last_commit": "2026-08-20T22:45:41Z",
             "owner": "ArturSepp",
             "repo": "GoalBasedAllocation",
             "stars": 10
@@ -4326,10 +4326,10 @@
             "archived": false,
             "id": 1098886564,
             "language": "Python",
-            "last_commit": "2026-08-19T23:41:10Z",
+            "last_commit": "2026-08-20T13:51:32Z",
             "owner": "cloudQuant",
             "repo": "fincore",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -4395,7 +4395,7 @@
             "last_commit": "2024-02-12T06:44:22Z",
             "owner": "quantopian",
             "repo": "alphalens",
-            "stars": 4419
+            "stars": 4421
           }
         },
         {
@@ -4425,7 +4425,7 @@
             "last_commit": "2025-12-15T04:03:16Z",
             "owner": "stefan-jansen",
             "repo": "alphalens-reloaded",
-            "stars": 628
+            "stars": 630
           }
         },
         {
@@ -4455,7 +4455,7 @@
             "last_commit": "2026-04-14T03:04:43Z",
             "owner": "VernonOY",
             "repo": "alpha-skills",
-            "stars": 88
+            "stars": 92
           }
         },
         {
@@ -4482,10 +4482,10 @@
             "archived": false,
             "id": 996777566,
             "language": "Python",
-            "last_commit": "2026-08-20T08:08:41Z",
+            "last_commit": "2026-08-21T08:01:12Z",
             "owner": "initial-d",
             "repo": "ml-quant-trading",
-            "stars": 75
+            "stars": 77
           }
         },
         {
@@ -4647,7 +4647,7 @@
             "last_commit": "2026-08-15T03:38:56Z",
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20365
+            "stars": 20364
           }
         },
         {
@@ -4659,10 +4659,10 @@
             "archived": false,
             "id": 1885237,
             "language": "Python",
-            "last_commit": "2026-08-19T22:57:22Z",
+            "last_commit": "2026-08-21T07:40:31Z",
             "owner": "statsmodels",
             "repo": "statsmodels",
-            "stars": 11582
+            "stars": 11583
           }
         },
         {
@@ -4692,7 +4692,7 @@
             "last_commit": "2026-07-31T11:26:21Z",
             "owner": "awslabs",
             "repo": "gluonts",
-            "stars": 5228
+            "stars": 5227
           }
         },
         {
@@ -4722,7 +4722,7 @@
             "last_commit": "2025-11-17T16:09:28Z",
             "owner": "alkaline-ml",
             "repo": "pmdarima",
-            "stars": 1734
+            "stars": 1733
           }
         },
         {
@@ -4857,7 +4857,7 @@
             "last_commit": "2026-08-13T22:01:24Z",
             "owner": "pineforge-4pass",
             "repo": "pineforge-engine",
-            "stars": 173
+            "stars": 174
           }
         },
         {
@@ -5013,7 +5013,7 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72069
+            "stars": 72095
           }
         },
         {
@@ -5025,10 +5025,10 @@
             "archived": false,
             "id": 849406496,
             "language": "C++",
-            "last_commit": "2026-08-20T06:31:29Z",
+            "last_commit": "2026-08-20T08:31:29Z",
             "owner": "Fincept-Corporation",
             "repo": "FinceptTerminal",
-            "stars": 30412
+            "stars": 30445
           }
         },
         {
@@ -5040,10 +5040,10 @@
             "archived": false,
             "id": 91948540,
             "language": "Python",
-            "last_commit": "2026-08-13T13:43:32Z",
+            "last_commit": "2026-08-20T11:24:14Z",
             "owner": "ranaroussi",
             "repo": "yfinance",
-            "stars": 25034
+            "stars": 25041
           }
         },
         {
@@ -5055,10 +5055,10 @@
             "archived": false,
             "id": 212037775,
             "language": "Python",
-            "last_commit": "2026-08-19T06:11:26Z",
+            "last_commit": "2026-08-21T05:17:37Z",
             "owner": "akfamily",
             "repo": "akshare",
-            "stars": 22134
+            "stars": 22148
           }
         },
         {
@@ -5073,7 +5073,7 @@
             "last_commit": "2026-08-16T12:14:31Z",
             "owner": "JerBouma",
             "repo": "FinanceDatabase",
-            "stars": 8364
+            "stars": 8369
           }
         },
         {
@@ -5088,7 +5088,7 @@
             "last_commit": "2026-08-18T12:47:53Z",
             "owner": "JerBouma",
             "repo": "FinanceToolkit",
-            "stars": 5244
+            "stars": 5247
           }
         },
         {
@@ -5130,10 +5130,10 @@
             "archived": false,
             "id": 581872397,
             "language": "Python",
-            "last_commit": "2026-08-19T17:54:48Z",
+            "last_commit": "2026-08-21T00:31:30Z",
             "owner": "dgunning",
             "repo": "edgartools",
-            "stars": 2596
+            "stars": 2600
           }
         },
         {
@@ -5163,7 +5163,7 @@
             "last_commit": "2024-12-02T13:49:20Z",
             "owner": "alpacahq",
             "repo": "alpaca-trade-api-python",
-            "stars": 1883
+            "stars": 1884
           }
         },
         {
@@ -5178,7 +5178,7 @@
             "last_commit": "2026-04-13T18:10:47Z",
             "owner": "alvarobartt",
             "repo": "investpy",
-            "stars": 1850
+            "stars": 1851
           }
         },
         {
@@ -5283,7 +5283,7 @@
             "last_commit": "2025-03-18T11:22:56Z",
             "owner": "vsjha18",
             "repo": "nsetools",
-            "stars": 904
+            "stars": 905
           }
         },
         {
@@ -5313,7 +5313,7 @@
             "last_commit": "2026-08-06T06:55:16Z",
             "owner": "defeat-beta",
             "repo": "defeatbeta-api",
-            "stars": 730
+            "stars": 733
           }
         },
         {
@@ -5343,7 +5343,7 @@
             "last_commit": "2026-08-07T08:51:08Z",
             "owner": "jugaad-py",
             "repo": "jugaad-data",
-            "stars": 559
+            "stars": 560
           }
         },
         {
@@ -5373,7 +5373,7 @@
             "last_commit": "2026-03-22T14:40:04Z",
             "owner": "theOGognf",
             "repo": "finagg",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -5478,7 +5478,7 @@
             "last_commit": "2026-08-02T03:17:50Z",
             "owner": "londonstrategicedge",
             "repo": "lse-data",
-            "stars": 191
+            "stars": 194
           }
         },
         {
@@ -5793,7 +5793,7 @@
             "last_commit": "2022-12-26T20:00:47Z",
             "owner": "ZachLiuGIS",
             "repo": "stock_extractor",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -5873,21 +5873,6 @@
         },
         {
           "node_type": "item",
-          "title": "Stockex",
-          "description": "- Python wrapper for Yahoo! Finance API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 16382670,
-            "language": "Python",
-            "last_commit": "2023-05-22T21:34:06Z",
-            "owner": "cttn",
-            "repo": "Stockex",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
           "title": "EarningsCall",
           "description": "- REST API and Python/JavaScript SDK for earnings call transcripts, audio files, and slide decks for 9,000+ public companies. Includes speaker-level data, Q&A segmentation, and earnings calendar.",
           "children": [],
@@ -5898,6 +5883,21 @@
             "last_commit": "2026-07-21T16:47:19Z",
             "owner": "EarningsCall",
             "repo": "earningscall-python",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stockex",
+          "description": "- Python wrapper for Yahoo! Finance API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16382670,
+            "language": "Python",
+            "last_commit": "2023-05-22T21:34:06Z",
+            "owner": "cttn",
+            "repo": "Stockex",
             "stars": 33
           }
         },
@@ -6075,7 +6075,7 @@
             "archived": false,
             "id": 781122279,
             "language": "Python",
-            "last_commit": "2026-08-20T05:13:25Z",
+            "last_commit": "2026-08-20T22:45:36Z",
             "owner": "ArturSepp",
             "repo": "BloombergFetch",
             "stars": 18
@@ -6233,6 +6233,21 @@
         },
         {
           "node_type": "item",
+          "title": "Korea Stock Data",
+          "description": "- Free Korean equity data: KOSPI/KOSDAQ settled closes with 250 trading days of per-stock history, DART regulatory filings and earnings, published every trading day as JSON/CSV. No signup or API key, CORS open. OpenAPI 3.1 spec and MCP server included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1317956265,
+            "language": "JavaScript",
+            "last_commit": "2026-08-17T14:28:22Z",
+            "owner": "na77tech-creator",
+            "repo": "aikstockdata",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
           "title": "BTC Orderbook Microstructure Research",
           "description": "- statistical analysis of Binance BTC/USDT orderbook: OBI, CVD, spread.",
           "children": [],
@@ -6244,21 +6259,6 @@
             "owner": "mznowhere",
             "repo": "btc-orderbook-research",
             "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Korea Stock Data",
-          "description": "- Free Korean equity data: KOSPI/KOSDAQ settled closes with 250 trading days of per-stock history, DART regulatory filings and earnings, published every trading day as JSON/CSV. No signup or API key, CORS open. OpenAPI 3.1 spec and MCP server included.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1317956265,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T14:28:22Z",
-            "owner": "na77tech-creator",
-            "repo": "aikstockdata",
-            "stars": 6
           }
         },
         {
@@ -6285,7 +6285,7 @@
             "archived": false,
             "id": 1223590168,
             "language": "Go",
-            "last_commit": "2026-08-19T16:27:45Z",
+            "last_commit": "2026-08-20T16:55:17Z",
             "owner": "ChainBench",
             "repo": "OpenChainBench",
             "stars": 5
@@ -6630,7 +6630,7 @@
             "archived": false,
             "id": 1284628499,
             "language": "Python",
-            "last_commit": "2026-08-18T14:10:01Z",
+            "last_commit": "2026-08-21T07:43:37Z",
             "owner": "vbkotecha",
             "repo": "agentservices-api",
             "stars": 1
@@ -6690,7 +6690,7 @@
             "archived": false,
             "id": 1292969752,
             "language": "Python",
-            "last_commit": "2026-08-20T07:08:56Z",
+            "last_commit": "2026-08-21T07:09:58Z",
             "owner": "sircharli3",
             "repo": "fillbench-data",
             "stars": 0
@@ -6735,7 +6735,7 @@
             "archived": false,
             "id": 1321473076,
             "language": null,
-            "last_commit": "2026-08-20T00:30:23Z",
+            "last_commit": "2026-08-21T00:30:24Z",
             "owner": "james-brand",
             "repo": "korea-market-data",
             "stars": 0
@@ -6759,7 +6759,7 @@
             "last_commit": "2026-07-18T01:45:53Z",
             "owner": "pmxt-dev",
             "repo": "pmxt",
-            "stars": 2088
+            "stars": 2091
           }
         },
         {
@@ -6774,7 +6774,7 @@
             "last_commit": "2026-05-08T07:48:25Z",
             "owner": "YichengYang-Ethan",
             "repo": "oracle3",
-            "stars": 248
+            "stars": 249
           }
         },
         {
@@ -6789,7 +6789,7 @@
             "last_commit": "2026-08-19T04:47:11Z",
             "owner": "livetennisapi",
             "repo": "livetennisapi-mcp",
-            "stars": 191
+            "stars": 190
           }
         },
         {
@@ -7011,7 +7011,7 @@
             "last_commit": "2026-07-24T05:18:50Z",
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5214
+            "stars": 5215
           }
         },
         {
@@ -7026,7 +7026,7 @@
             "last_commit": "2024-08-08T17:23:11Z",
             "owner": "matplotlib",
             "repo": "mplfinance",
-            "stars": 4428
+            "stars": 4427
           }
         },
         {
@@ -7041,7 +7041,7 @@
             "last_commit": "2026-01-03T14:20:27Z",
             "owner": "lit26",
             "repo": "finvizfinance",
-            "stars": 1615
+            "stars": 1618
           }
         },
         {
@@ -7068,7 +7068,7 @@
             "archived": false,
             "id": 583712573,
             "language": "Python",
-            "last_commit": "2026-08-18T19:20:52Z",
+            "last_commit": "2026-08-20T19:23:03Z",
             "owner": "ArturSepp",
             "repo": "QuantInvestStrats",
             "stars": 604
@@ -7083,7 +7083,7 @@
             "archived": false,
             "id": 676136992,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T10:14:18Z",
+            "last_commit": "2026-08-20T17:13:29Z",
             "owner": "devexperts",
             "repo": "dxcharts-lite",
             "stars": 101
@@ -7275,7 +7275,7 @@
             "archived": false,
             "id": 1335718387,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T08:00:51Z",
+            "last_commit": "2026-08-20T19:37:10Z",
             "owner": "pengpengyi92",
             "repo": "dsh-quant",
             "stars": 17
@@ -7349,7 +7349,7 @@
                 "last_commit": "2016-03-14T15:30:04Z",
                 "owner": "frgomes",
                 "repo": "jquantlib",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -7402,10 +7402,10 @@
             "archived": false,
             "id": 48185587,
             "language": "C++",
-            "last_commit": "2026-08-20T06:37:44Z",
+            "last_commit": "2026-08-20T17:04:30Z",
             "owner": "lballabio",
             "repo": "QuantLib",
-            "stars": 7526
+            "stars": 7529
           }
         },
         {
@@ -7425,7 +7425,7 @@
                 "last_commit": "2026-07-29T03:37:05Z",
                 "owner": "TA-Lib",
                 "repo": "ta-lib-python",
-                "stars": 12195
+                "stars": 12198
               }
             },
             {
@@ -7437,7 +7437,7 @@
                 "archived": false,
                 "id": 66132152,
                 "language": "Java",
-                "last_commit": "2026-08-20T05:33:20Z",
+                "last_commit": "2026-08-21T04:39:41Z",
                 "owner": "TA-Lib",
                 "repo": "ta-lib",
                 "stars": 1656
@@ -7448,7 +7448,7 @@
             "archived": false,
             "id": 66132152,
             "language": "Java",
-            "last_commit": "2026-08-20T05:33:20Z",
+            "last_commit": "2026-08-21T04:39:41Z",
             "owner": "TA-Lib",
             "repo": "ta-lib",
             "stars": 1656
@@ -7508,10 +7508,10 @@
             "archived": false,
             "id": 1027423503,
             "language": "Rust",
-            "last_commit": "2026-08-20T08:06:59Z",
+            "last_commit": "2026-08-21T08:04:38Z",
             "owner": "runmat-org",
             "repo": "runmat",
-            "stars": 249
+            "stars": 250
           }
         },
         {
@@ -7523,10 +7523,10 @@
             "archived": false,
             "id": 1027423503,
             "language": "Rust",
-            "last_commit": "2026-08-20T08:06:59Z",
+            "last_commit": "2026-08-21T08:04:38Z",
             "owner": "runmat-org",
             "repo": "runmat",
-            "stars": 249
+            "stars": 250
           }
         },
         {
@@ -7562,7 +7562,7 @@
             "last_commit": "2024-07-17T14:30:53Z",
             "owner": "jpmorganchase",
             "repo": "python-training",
-            "stars": 13917
+            "stars": 13916
           }
         },
         {
@@ -7577,7 +7577,7 @@
             "last_commit": "2026-03-26T06:24:50Z",
             "owner": "shashankvemuri",
             "repo": "Finance",
-            "stars": 4178
+            "stars": 4179
           }
         },
         {
@@ -7592,7 +7592,7 @@
             "last_commit": "2021-06-01T12:56:44Z",
             "owner": "chrisconlan",
             "repo": "algorithmic-trading-with-python",
-            "stars": 3430
+            "stars": 3431
           }
         },
         {
@@ -7652,7 +7652,7 @@
             "last_commit": "2025-05-04T18:46:47Z",
             "owner": "LastAncientOne",
             "repo": "Stock_Analysis_For_Quant",
-            "stars": 2049
+            "stars": 2051
           }
         },
         {
@@ -7667,7 +7667,7 @@
             "last_commit": "2024-10-21T17:00:05Z",
             "owner": "jasonstrimpel",
             "repo": "volatility-trading",
-            "stars": 1944
+            "stars": 1943
           }
         },
         {
@@ -7697,7 +7697,7 @@
             "last_commit": "2024-03-01T00:12:23Z",
             "owner": "LastAncientOne",
             "repo": "Deep_Learning_Machine_Learning_Stock",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -7877,7 +7877,7 @@
             "last_commit": "2026-02-11T16:36:49Z",
             "owner": "emoen",
             "repo": "Machine-Learning-for-Asset-Managers",
-            "stars": 659
+            "stars": 660
           }
         },
         {
@@ -8174,7 +8174,7 @@
             "archived": false,
             "id": 55919005,
             "language": "R",
-            "last_commit": "2025-12-24T15:21:11Z",
+            "last_commit": "2026-08-20T09:18:06Z",
             "owner": "enricoschumann",
             "repo": "NMOF",
             "stars": 39
@@ -8390,7 +8390,7 @@
             "archived": false,
             "id": 1294189104,
             "language": null,
-            "last_commit": "2026-08-20T00:10:23Z",
+            "last_commit": "2026-08-21T00:10:23Z",
             "owner": "gveshk",
             "repo": "atlasyield-score-history",
             "stars": 0
@@ -8431,7 +8431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:21:51.792Z",
+    "last_updated": "2026-08-21T08:23:19.574Z",
     "original_repository": "wilsonfreitas/awesome-quant",
     "original_repository_id": 43425480,
     "original_repository_sha": "07db554ce939ab45dff2dd97fa9a1d6b33ab08c4",
